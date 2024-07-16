@@ -1,0 +1,23 @@
+body {
+    background-color: black;
+    font-family: SFMono-Regular,Menlo,Monaco,Consolas,"Liberation Mono","Courier New", sans-serif;
+}
+
+h1 {
+    color: #ffffff
+}
+
+.btn-secondary {
+    background-color: #505052;
+    color:white;
+    border-radius: 1px;
+    border-color: #505052;
+}
+
+.btn-danger {
+    background-color: red;
+    color: white;
+    border-radius: 1px;
+    border-color: red;
+}
+
